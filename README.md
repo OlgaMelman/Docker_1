@@ -1,2 +1,2 @@
 # Docker_1
-![Screenshot_1](https://github.com/OlgaMelman/Docker_1/assets/107468964/b07b2598-cdb8-4f10-8fec-142a8eaaa37a)
+![Screenshot_3](https://github.com/OlgaMelman/Docker_1/assets/107468964/9a80371f-b12a-4737-8cb6-06d9eec3e5cb)
